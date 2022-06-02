@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Alessandro Pugliese"
 title_separator          : "-"
-name                     : &name "Alessandro"
+name                     : &name "Alessandro Pugliese"
 description              : &description "personal description"
 url                      : https://apulian.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"

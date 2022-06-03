@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Alessandro Pugliese"
   avatar           : "profile.png"
-  bio              : "Assistant Professor in Numerical Analysis<br><br> Università degli Studi di Bari Aldo Moro<br> Dipartimento di Matematica"
-  employer         : "Università degli Studi di Bari Aldo Moro"
+  bio              : "Assistant Professor in Numerical Analysis"
+  employer         :
   email            : "alessandro.pugliese@uniba.it"
   location         : "Dipartimento di Matematica<br> &emsp;&nbsp; Stanza 12, III piano"
-  address          : "Via E. Orabona<br> Bari"
+  address          : "Dipartimento di Matematica<br>Università degli Studi di Bari<br>Via E. Orabona 4<br> 70125 Bari - Italy"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.it/citations?user=WW7O6rQAAAAJ&hl=en"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"

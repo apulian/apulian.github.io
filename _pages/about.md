@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My research interests lie primarily in the broad areas of Linear Algebra and Dynamical Systems. The emphasis of my work on Linear Algebra is on eigenproblems (and singular value problems) where the matrix depends smoothly on one or more parameters. In Dynamical Systems, I am interested in continuation of multidimensional manifolds of solutions, bifurcations, and on the existence of solutions that exhibit special behaviours (such as finite-time blow or extinction).
+My research interests lie primarily in the broad areas of Linear Algebra and Dynamical Systems. The emphasis of my work on Linear Algebra is on eigenproblems (and singular value problems) where the matrix depends smoothly on one or more parameters. In Dynamical Systems, I am interested in continuation of multidimensional manifolds of solutions, bifurcations, and on the existence of solutions that exhibit special behaviours (such as finite-time blow up or extinction).
 
 See my Research page for more information.
 

@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[Curriculum Vitae (in english)](Pugliese_cv_eng.pdf)
+[Curriculum Vitae](/files/Pugliese_cv_eng.pdf) (in english)

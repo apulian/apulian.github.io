@@ -1,6 +1,6 @@
 ---
 permalink: /
- - title: "Homepage of Alessandro Pugliese"
+title: "Homepage of Alessandro Pugliese"
 excerpt: "About me"
 author_profile: true
 redirect_from: 

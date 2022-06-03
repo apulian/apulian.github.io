@@ -1,6 +1,6 @@
 ---
 permalink: /
-- title: "&nbsp;"
+title: "&nbsp;"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -12,4 +12,4 @@ My research interests lie primarily in the broad areas of Linear Algebra and Dyn
 
 See my Research page for more information.
 
-This page in under construction...
+This page is under construction...

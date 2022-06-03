@@ -25,6 +25,9 @@
       {% if author.location %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
       {% endif %}
+      {% if author.googlemapslocation %}
+        <li><a href="https://goo.gl/maps/jaE6YAqzk9WHxkak9"><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> Google Maps</a></li>
+      {% endif %}
       {% if author.employer %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.employer }}</li>
       {% endif %}

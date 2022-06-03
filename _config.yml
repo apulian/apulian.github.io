@@ -85,8 +85,9 @@ author:
   bio              : "Assistant Professor in Numerical Analysis"
   employer         :
   email            : "alessandro.pugliese@uniba.it"
-  googlemapslocation : " "
+  googlemapslocation : "true"
   address          : "Dipartimento di Matematica<br>Università degli Studi di Bari<br>Via E. Orabona 4<br> 70125 Bari - Italy"
+  phone            : "+39 080 5442689"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.it/citations?user=WW7O6rQAAAAJ&hl=en"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
